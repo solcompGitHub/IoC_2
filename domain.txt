@@ -2184,9 +2184,8 @@ y0l23ven.moondev.digital
 o4sis4-signal.gl1mmeroak.in.net
 hyper-r3agent.amber-drift.in.net
 vordraar8.amber-drift.in.net
-#TLP Amber
 Lightbox-voltage-acute-duncan.trycloudflare.com
-#24/Junio/2026 CristobalColon
+
 portal-bnxico.online
 desvinculacion-actnver.online
 registro-inbrsa.online
@@ -2196,4 +2195,5 @@ actualiza-banmex.online
 supermovlmx.online
 actualiza-liverp.online
 actualiza-bbvv.online
-
+instance-b9ewll-relay.screenconnect.com
+server-ovh30010032-relay.screenconnect.com
